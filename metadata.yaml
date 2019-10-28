@@ -1,0 +1,33 @@
+_repo: The-Used-People-Lot_60545
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Orban, Paul
+    birthdate: 1896
+    deathdate: 1974
+    gutenberg_agent_id: '34272'
+    url: http://www.gutenberg.org/2009/agents/34272
+creator:
+  author:
+    agent_name: Fang, Irving E.
+    birthdate: 1929
+    deathdate: 2016
+    gutenberg_agent_id: '51009'
+    url: http://www.gutenberg.org/2009/agents/51009
+description: ''
+gutenberg_issued: '2019-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60545'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Automobiles -- Fiction'
+- !lcsh 'Short stories'
+- GITenberg
+title: The Used People Lot
+url: http://www.gutenberg.org/ebooks/60545
